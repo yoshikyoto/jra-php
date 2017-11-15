@@ -1,0 +1,12 @@
+{
+    "name": "yoshikyoto/php-jra",
+    "authors": [],
+    "autoload": {
+        "psr-4": {
+            "Jra\\" : "src"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "6.0"
+    }
+}
